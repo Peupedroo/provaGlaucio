@@ -1,5 +1,5 @@
-import {i} from "vite/dist/node/types.d-aGj9QkWt.js";
 
+import { defineConfig } from 'vite';
 const aluno = {
     nome : "pedro",
     notas : [10, 9 , 8]
